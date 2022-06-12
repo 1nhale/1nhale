@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, flutter**
 
-- 💬 Ask me about **html, css, bootstrap**
+- 💬 Ask me about **html, css, bootstrap, MySQL**
 
 - ⚡ Fun fact **I think i can draw**
 

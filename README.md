@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **react, flutter**
+- 🌱 I’m currently learning **react, JavaScript**
 
 - 💬 Ask me about **html, css, bootstrap, MySQL**
 

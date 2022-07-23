@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, JavaScript**
 
-- 💬 Ask me about **html, css, bootstrap, MySQL**
+- 💬 Ask me about **HTML, CSS, BootStrap, MySQL**
 
 - ⚡ Fun fact **I think i can draw**
 
